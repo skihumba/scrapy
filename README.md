@@ -1,3 +1,3 @@
 # scrapy
 
-Web scraping with the scrapy framework
+Web scraping using the Scrapy framework
